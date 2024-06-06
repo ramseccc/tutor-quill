@@ -1,0 +1,22 @@
+:root {
+  font-family: Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: whitesmoke;
+
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 20vh;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  text-align: center;
+}
+
